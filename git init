@@ -1,0 +1,11 @@
+git init
+git status
+git add
+git diff
+git commit
+git commit
+i
+:wq
+git checkout --       usuwa zmiany
+git checkout -b       tworzy galaz
+git checkout          zmienia galaz
